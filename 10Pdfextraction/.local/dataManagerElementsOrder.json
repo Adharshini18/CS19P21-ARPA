@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtinvoice&Sequence_1",
+        "invoicetotal&Sequence_1",
+        "length&Sequence_1",
+        "strdate&Sequence_1",
+        "invoicenumber&Sequence_1",
+        "companyname&Sequence_1",
+        "text_1&Sequence_1",
+        "text&Sequence_1",
+        "strtext&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
