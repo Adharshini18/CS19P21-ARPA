@@ -1,6 +1,6 @@
 {
-  "name": "datascraping",
-  "projectId": "9eb933fa-0a1a-4ac2-865d-93a16aa00140",
+  "name": "Whitepapers",
+  "projectId": "a11edde7-3fe1-4ea4-8832-ad43df76acc7",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -44,14 +44,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false,
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "47c26cd5-851a-4b0a-8ee5-ecbcecd94e77",
+      "uniqueId": "410aa8c8-8c84-4f7d-b7ec-c93c4c40ca73",
       "input": [],
       "output": []
     }

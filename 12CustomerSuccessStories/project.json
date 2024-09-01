@@ -1,6 +1,6 @@
 {
-  "name": "datascraping",
-  "projectId": "9eb933fa-0a1a-4ac2-865d-93a16aa00140",
+  "name": "Customer_stories",
+  "projectId": "01871084-2fba-4840-a3da-70f42c1b3999",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -44,14 +44,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false,
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "47c26cd5-851a-4b0a-8ee5-ecbcecd94e77",
+      "uniqueId": "6baa1e0f-2dd5-4e0d-890d-1b38ed72b8c2",
       "input": [],
       "output": []
     }

@@ -1,6 +1,6 @@
 {
-  "name": "datascraping",
-  "projectId": "9eb933fa-0a1a-4ac2-865d-93a16aa00140",
+  "name": "flights_on_google",
+  "projectId": "b2c01ad6-e914-4eea-945e-0b9885072475",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -44,14 +44,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false,
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "47c26cd5-851a-4b0a-8ee5-ecbcecd94e77",
+      "uniqueId": "92032356-28ce-4cd8-941e-7ada5b1947db",
       "input": [],
       "output": []
     }
